@@ -51,7 +51,7 @@ session_start();
 				<td height="296" valign="top">
 					<div align="center">
 						<a class="btn btn-success " href="admin/index.php">ADMIN LOGIN</a>
-						<marquee scrollamount="10"><h1 class="style8">Welcome to Online Quiz</h1></marquee>
+						<marquee scrollamount="10"><h1 class="style8">MOST Welcome to Online Quiz</h1></marquee>
 						<blockquote>
 							<p align="center"><span class="style4">WelCome to Online
 								exam. This Site will provide the quiz for various subject of interest.
